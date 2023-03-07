@@ -302,10 +302,10 @@ h1 {
   .photoCarousel1 {
     position: relative;
     display: flex;
-    width: calc(var(--vw, 1vw) * 100);
-    max-width: calc(var(--vw, 1vw) * 100);
-    height: calc(var(--vw, 1vw) * 120);
-    max-height: calc(var(--vw, 1vw) * 120);
+    width: calc(var(--vw, 1vw) * 90);
+    max-width: calc(var(--vw, 1vw) * 90);
+    height: calc(var(--vw, 1vw) * 110);
+    max-height: calc(var(--vw, 1vw) * 110);
     align-items: start;
     padding: 0;
     white-space: nowrap;
